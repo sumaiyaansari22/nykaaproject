@@ -22,8 +22,8 @@ html {
 
 img {
     margin-top: 15px;
-    height: 475px;
-    width: 1583px;
+    height: 40rem;
+    width: 100%;
 }
 
 .card-item {
@@ -62,11 +62,9 @@ img {
 }
 
 .values img {
-    height: 790px;
-    width: 1583px;
-    padding-left: 100px;
-    padding-right: 100px;
-    padding-bottom: 30px;
+    height: 30%;
+    width: 100%;
+    padding: 30px 100px 30px 100px;
 }
 
 .values h3 {
@@ -103,6 +101,7 @@ img {
 
 .authenticity button {
     color: black;
+    width: 8rem;
     background-color: rgb(213, 55, 108);
     margin: 0.5% 46%;
     padding: 10px;

@@ -14,7 +14,7 @@ h4 {
 }
 
 .name {
-    width: 500px;
+    width: 40%;
     padding: 12px;
     border: 1px solid #ccc;
     border-radius: 4px;
@@ -69,9 +69,7 @@ button:hover {
 
 
 .container {
-    margin-top: 50px;
-    margin-left: 150px;
-    margin-right: 150px;
+    margin: 50px 150px 50px 150px;
     border-radius: 5px;
     padding: 20px;
     background-color: palevioletred;
@@ -81,9 +79,7 @@ button:hover {
 
 @media screen and (max-width: 1000px) {
     .container {
-        margin-top: 50px;
-        margin-left: 75px;
-        margin-right: 75px;
+        margin: 50px 75px 5opx 50px;
         display: flex;
         padding: 20px;
         border-radius: 5px;

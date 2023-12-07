@@ -47,6 +47,10 @@
         height: 30px;
     }
 
+    .cards {
+        overflow: scroll;
+    }
+
     .card-item img {
         width: 140px;
     }
